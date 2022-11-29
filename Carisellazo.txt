@@ -7,3 +7,7 @@
 
 //Parte 1 del colaborador 1
 Generación del número aleatorio
+
+
+//parte 2 del colaborador 2
+Generar apuesta del juego
