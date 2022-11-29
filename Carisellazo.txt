@@ -3,3 +3,7 @@
 //Nombres integrantes
 //Integrante 1
 //Integrante 2
+
+
+//Parte 1 del colaborador 1
+Generación del número aleatorio
